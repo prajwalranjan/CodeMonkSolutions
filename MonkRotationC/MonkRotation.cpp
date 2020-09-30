@@ -2,24 +2,6 @@
 
 using namespace std;
 
-// void singleRotate(int arr[], int N) {
-//     int temp = arr[N-1];
-//     int i;
-//     for(i=0; i<(N-1); i++) {
-//         arr[i+1] = arr[i];
-//     }
-//     arr[i] = temp;
-// }
-
-// void shiftArr(int arr[], int N, int K) {
-//     for(int i=0; i<K; i++) {
-//         singleRotate(arr, N);
-//     }
-//     for(int i=0; i<N; i++) {
-//         cout<<arr[i]<<" ";
-//     }
-// }
-
 int main() {
     
     //Test Cases
